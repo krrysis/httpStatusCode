@@ -1,0 +1,1 @@
+https://research360.in,"HTTPSConnectionPool(host='research360.in', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot connect to proxy.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)))"
